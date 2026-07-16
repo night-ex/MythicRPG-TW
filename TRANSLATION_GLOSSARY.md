@@ -26,6 +26,13 @@
 | Tick | 刻 | Minecraft | Yes | 沿用官方譯名 |
 | Powder Snow | 細雪 | Minecraft | Yes | 沿用官方譯名 |
 | EMC | EMC | ProjectE | No | 專有縮寫，保留原文 |
+| Nether | 地獄 | Minecraft | Yes | 沿用官方譯名 |
+| Banner | 旗幟 | Minecraft | Yes | 沿用官方譯名 |
+| Spawner | 生怪磚 | Minecraft | Yes | 沿用官方譯名 |
+| Blaze | 烈焰使者 | Minecraft | Yes | 沿用官方譯名 |
+| Blaze Rod | 烈焰桿 | Minecraft | Yes | 沿用官方譯名 |
+| Wither Skeleton | 凋零骷髏 | Minecraft | Yes | 沿用官方譯名 |
+| Wither Skeleton Skull | 凋零骷髏頭顱 | Minecraft | Yes | 沿用官方譯名 |
 
 ## 欄位規則
 
