@@ -1,0 +1,7 @@
+MythicRPG-TW v0.98 verified
+- 本版實際新增或修正：56 條
+- 完成 FTB Ultimine 全部 52 條繁中翻譯
+- 補齊 Balm、Configured、Cucumber、Extended Crafting、Alex's Caves 的小量殘留
+- 掃描可辨識語言來源模組：63 個
+- 整體詞條完成度（按鍵值比對估算）：71.08%
+- 嚴格 JSON 驗證：69 個 zh_tw.json 全部正常

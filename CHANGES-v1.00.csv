@@ -1,0 +1,11 @@
+﻿key,old,new
+itemGroup.awesome_dungeon,,Awesome Dungeon
+structure.awesome_dungeon,,地下城結構
+message.awesome_dungeon.portal,,已找到地下城入口
+entity.awesome_dungeon.guardian,,地下城守衛
+entity.awesome_dungeon.mimic,,寶箱怪
+block.awesome_dungeon.locked_chest,,上鎖的寶箱
+block.awesome_dungeon.cracked_bricks,,裂紋地下城磚
+gui.awesome_dungeon.loot,,戰利品
+advancements.awesome_dungeon.root.title,,地下城探險
+advancements.awesome_dungeon.root.description,,踏入神秘地下城

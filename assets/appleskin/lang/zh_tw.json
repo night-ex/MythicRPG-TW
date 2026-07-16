@@ -1,0 +1,12 @@
+{
+  "appleskin.hud.food": "飽食度",
+  "appleskin.hud.saturation": "飽和度",
+  "appleskin.hud.exhaustion": "飢餓消耗",
+  "appleskin.tooltip.food": "恢復 %s 點飽食度",
+  "appleskin.tooltip.saturation": "恢復 %s 點飽和度",
+  "appleskin.config.show_food": "顯示飽食預覽",
+  "appleskin.config.show_saturation": "顯示飽和度預覽",
+  "appleskin.config.show_tooltip": "顯示食物提示",
+  "key.appleskin.toggle": "切換 AppleSkin 顯示",
+  "key.categories.appleskin": "AppleSkin"
+}

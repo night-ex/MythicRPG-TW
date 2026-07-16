@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_20.title": "YUNG 的更好終界島",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.resummonedDragonDropsEgg": "再次召喚的終界龍會掉落龍蛋",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.resummonedDragonDropsEgg.@Tooltip": "終界龍每次被擊敗時是否都會掉落龍蛋。",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.useVanillaSpawnPlatform": "生成原版黑曜石平臺",
+  "text.autoconfig.betterendisland-fabric-1_20.option.general.useVanillaSpawnPlatform.@Tooltip": "是否在終界生成原版黑曜石平臺，而不是重製的平臺。"
+}

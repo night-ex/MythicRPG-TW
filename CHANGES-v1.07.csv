@@ -1,0 +1,11 @@
+﻿key,old,new
+structure.awesomedungeon.castle,,古堡地下城
+structure.awesomedungeon.crypt,,地下墓穴
+structure.awesomedungeon.catacombs,,地底墓道
+structure.awesomedungeon.ice_dungeon,,冰雪地下城
+structure.awesomedungeon.desert_temple,,沙漠遺跡
+message.awesomedungeon.enter,,你踏入了危險的地下城……
+message.awesomedungeon.clear,,地下城已征服！
+adv.awesomedungeon.clear,,征服地下城
+adv.awesomedungeon.clear.desc,,成功完成一座地下城。
+jei.awesomedungeon.loot,,地下城戰利品

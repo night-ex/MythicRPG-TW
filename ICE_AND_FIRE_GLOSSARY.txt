@@ -1,0 +1,20 @@
+Ice and Fire v0.6 統一詞彙
+
+Fire Dragon = 火龍
+Ice Dragon = 冰龍
+Lightning Dragon = 閃電龍
+Dragonsteel Ingot = 龍鋼錠（依屬性分為火龍鋼錠、冰龍鋼錠、閃電龍鋼錠）
+Dragon Forge = 龍鋼熔爐
+Dragon Bone = 龍骨
+Dragon Skull = 龍頭骨
+Sea Serpent = 海蛇
+Siren = 海妖
+Gorgon = 戈耳工
+Cockatrice = 雞蛇
+Hippogryph = 獅鷲獸
+Amphithere = 羽蛇
+Pixie = 小精靈
+Troll = 巨魔
+Death Worm = 死亡蠕蟲
+Cyclops = 獨眼巨人
+Hydra = 九頭蛇

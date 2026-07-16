@@ -1,0 +1,13 @@
+﻿key,old,new
+item.spartanshields.wooden_basic_shield,,木製盾牌
+item.spartanshields.stone_basic_shield,,石製盾牌
+item.spartanshields.iron_basic_shield,,鐵製盾牌
+item.spartanshields.golden_basic_shield,,金製盾牌
+item.spartanshields.diamond_basic_shield,,鑽石盾牌
+item.spartanshields.netherite_basic_shield,,獄髓盾牌
+itemGroup.spartanshields,,Spartan Shields
+tooltip.spartanshields.bash,,盾擊
+tooltip.spartanshields.damage,,格擋傷害：%s
+tooltip.spartanshields.cooldown,,冷卻時間：%s
+subtitle.spartanshields.block,,盾牌格擋
+subtitle.spartanshields.bash,,盾擊命中

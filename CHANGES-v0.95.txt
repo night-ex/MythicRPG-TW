@@ -1,0 +1,2 @@
+實際修改檔案數: 1
+assets/blue_skies/lang/zh_tw.json

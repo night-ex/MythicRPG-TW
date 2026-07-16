@@ -1,0 +1,9 @@
+﻿key,old,new
+item.spartanshields.obsidian_shield,,黑曜石盾牌
+item.spartanshields.ender_shield,,終界盾牌
+item.spartanshields.boss_shield,,首領盾牌
+tooltip.spartanshields.bash_damage,,盾擊傷害：%s
+tooltip.spartanshields.cooldown,冷卻時間：%s,冷卻：%s 秒
+adv.spartanshields.first_block,,成功格擋一次攻擊
+adv.spartanshields.master,,盾牌大師
+jei.spartanshields.upgrade,,盾牌升級

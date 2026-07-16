@@ -1,0 +1,43 @@
+Alex's Caves v0.8 統一詞彙
+
+Magnetic Caves = 磁力洞窟
+Primordial Caves = 原始洞窟
+Toxic Caves = 劇毒洞窟
+Abyssal Chasm = 深淵裂谷
+Forlorn Hollows = 荒寂空洞
+Candy Cavity = 糖果洞腔
+
+主要生物與 Boss
+Nucleeper = 核爆潛伏者
+Tremorzilla = 震地巨獸
+Tremorsaurus = 震地龍
+Grottoceratops = 洞窟角龍
+Relicheirus = 遺跡巨爪龍
+Atlatitan = 擎天龍
+Subterranodon = 地底翼龍
+Luxtructosaurus = 暝煌龍
+Radgill = 輻鰓魚
+Raycat = 射線貓
+Brainiac = 腦怪
+Notor = 機靈磁
+Boundroid = 吊垂靈
+Teletor = 傳念靈
+Magnetron = 控磁靈
+Deep One = 深潛者
+Deep One Knight = 深潛騎士
+Deep One Mage = 深潛法師
+Hullbreaker = 破船巨獸
+Forsaken = 遺棄者
+Gossamer Worm = 浮蠶
+Vesper = 暮翼獸
+Underzealot = 地底狂信徒
+Watcher = 凝視者
+Corrodent = 腐蝕鼠
+Gummy Bear = 軟糖熊
+Gum Worm = 口香糖蠕蟲
+Caramel Cube = 焦糖方塊怪
+Caniac = 糖狂怪
+Licowitch = 甘草女巫
+Gingerbread Man = 薑餅人
+Candicorn = 糖果獨角獸
+Gumbeeper = 糖膠苦力怕

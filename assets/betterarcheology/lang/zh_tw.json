@@ -1,0 +1,12 @@
+{
+  "item.betterarcheology.brush": "考古刷",
+  "item.betterarcheology.iron_brush": "鐵製考古刷",
+  "item.betterarcheology.diamond_brush": "鑽石考古刷",
+  "item.betterarcheology.ancient_coin": "古代硬幣",
+  "item.betterarcheology.ancient_pottery": "古代陶片",
+  "block.betterarcheology.excavation_site": "考古挖掘點",
+  "adv.betterarcheology.excavate": "首次完成考古挖掘",
+  "tooltip.betterarcheology.brush": "可用於清理可疑方塊",
+  "jei.betterarcheology.excavation": "考古掉落",
+  "key.categories.betterarcheology": "Better Archeology"
+}

@@ -1,0 +1,5 @@
+MythicRPG-TW v0.97
+- FTB Teams：90 / 90 條完成（100%）
+- 本版新增或修正：75 條
+- 已驗證 zh_tw.json：68 個，全部格式正常
+- 下一批：FTB Ultimine

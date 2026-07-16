@@ -1,0 +1,6 @@
+MythicRPG-TW v0.8
+
+- 新增 Alex's Caves 繁體中文。
+- 完整覆蓋 1712 個語言鍵。
+- 人工統一主要洞窟、生物、Boss、武器與材料名稱。
+- 保留 v0.7 Alex's Mobs 與 v0.6 Ice and Fire 全部內容。

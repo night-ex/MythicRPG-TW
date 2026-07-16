@@ -1,0 +1,78 @@
+﻿namespace,key,old_value,new_value
+ftbteams,ftbteams.info.members,,成員：
+ftbteams,ftbteams.info.members.none,,沒有成員
+ftbteams,ftbteams.list,,所有 FTB 隊伍：%s
+ftbteams,ftbteams.property_not_found,,找不到屬性 ID！
+ftbteams,ftbteams.owner_cant_leave,,你必須先轉移隊伍所有權才能離開！
+ftbteams,ftbteams.cant_kick_owner,,無法踢出隊長！
+ftbteams,ftbteams.party_api_only,,此模組包無法直接建立玩家隊伍！
+ftbteams,ftbteams.api_override,,此模組包只能透過物品欄中的「我的隊伍」按鈕建立隊伍！
+ftbteams,ftbteams.missing_data,,"尚未從伺服器收到隊伍資料！
+FTB Teams 將無法正常運作。
+請檢查伺服器紀錄是否有錯誤，並確認伺服器已開啟正版驗證模式。"
+ftbteams,sidebar_button.ftbteams.my_team,,我的隊伍
+ftbteams,ftbteamsconfig,,隊伍屬性
+ftbteams,ftbteamsconfig.ftbteams,,基本隊伍屬性
+ftbteams,ftbteamsconfig.ftbteams.display_name,,顯示名稱
+ftbteams,ftbteamsconfig.ftbteams.description,,描述
+ftbteams,ftbteamsconfig.ftbteams.color,,顏色
+ftbteams,ftbteamsconfig.ftbteams.free_to_join,,自由加入
+ftbteams,ftbteamsconfig.ftbteams.max_msg_history_size,,訊息紀錄最大數量
+ftbteams,ftbteams.privacy_mode.allies,,盟友
+ftbteams,ftbteams.privacy_mode.private,,私人
+ftbteams,ftbteams.privacy_mode.public,,公開
+ftbteams,ftbteams.create_party,,建立隊伍
+ftbteams,ftbteams.create_party.info,,建立隊伍以邀請成員並共同推進遊戲進度
+ftbteams,ftbteams.gui.kick,,踢出 %s
+ftbteams,ftbteams.gui.kick.confirm,,確定要踢出玩家 %s 嗎？
+ftbteams,ftbteams.gui.promote,,晉升 %s
+ftbteams,ftbteams.gui.promote.confirm,,確定要將玩家 %s 晉升嗎？
+ftbteams,ftbteams.gui.demote,,降級 %s
+ftbteams,ftbteams.gui.demote.confirm,,確定要將玩家 %s 降級嗎？
+ftbteams,ftbteams.gui.leave,,離開隊伍
+ftbteams,ftbteams.gui.leave.confirm,,確定要離開隊伍嗎？
+ftbteams,ftbteams.gui.disband,,解散隊伍
+ftbteams,ftbteams.gui.disband.confirm,,確定要解散隊伍嗎？
+ftbteams,ftbteams.gui.transfer_ownership,,將 %s 設為隊長
+ftbteams,ftbteams.gui.transfer_ownership.confirm,,確定要將 %s 設為隊長嗎？
+ftbteams,ftbteams.gui.party_name,,隊伍名稱
+ftbteams,ftbteams.gui.party_description,,隊伍描述
+ftbteams,ftbteams.gui.create_party,,建立隊伍
+ftbteams,ftbteams.gui.add_members,,新增成員
+ftbteams,ftbteams.gui.invite,,邀請玩家
+ftbteams,ftbteams.gui.manage_allies,,管理盟友
+ftbteams,ftbteams.gui.no_players,,沒有可選擇的玩家
+ftbteams,ftbteams.gui.send_invite,,邀請
+ftbteams,ftbteams.gui.add_ally,,結為盟友
+ftbteams,ftbteams.gui.remove_ally,,與 %s 解除盟友關係
+ftbteams,ftbteams.gui.remove_ally.confirm,,確定要與 %s 解除盟友關係嗎？
+ftbteams,ftbteams.ranks.enemy,,敵對
+ftbteams,ftbteams.ranks.none,,無
+ftbteams,ftbteams.ranks.ally,,盟友
+ftbteams,ftbteams.ranks.invited,,已邀請
+ftbteams,ftbteams.ranks.member,,成員
+ftbteams,ftbteams.ranks.officer,,幹部
+ftbteams,ftbteams.ranks.owner,,隊長
+ftbteams,ftbteams.team_type.player,,玩家隊伍
+ftbteams,ftbteams.team_type.party,,玩家隊伍
+ftbteams,ftbteams.team_type.server,,伺服器隊伍
+ftbteams,key.ftbteams.open_gui,,開啟隊伍介面
+ftbteams,key.categories.ftbteams,,FTB 隊伍
+ftbteams,ftbteams.message.invited,,已邀請 %s
+ftbteams,ftbteams.message.invite_sent,,%s 邀請你加入他的隊伍！
+ftbteams,ftbteams.message.joined,,%s 已加入你的隊伍！
+ftbteams,ftbteams.message.declined,,你已拒絕邀請
+ftbteams,ftbteams.message.kicked,,已將 %s 踢出 %s！
+ftbteams,ftbteams.message.promoted,,已將 %s 晉升為幹部！
+ftbteams,ftbteams.message.demoted,,已將 %s 降級為成員！
+ftbteams,ftbteams.message.transfer_owner,,已將隊伍所有權轉移給 %s！
+ftbteams,ftbteams.message.left_party,,玩家 %s 已離開你的隊伍！
+ftbteams,ftbteams.message.add_ally,,玩家 %s 現在是你隊伍的盟友！
+ftbteams,ftbteams.message.now_allied,,你現在與「%s」互為盟友！
+ftbteams,ftbteams.message.remove_ally,,玩家 %s 已不再是你隊伍的盟友！
+ftbteams,ftbteams.message.no_longer_allied,,你已不再與「%s」互為盟友！
+ftbteams,ftbteams.message.created_server_team,,已建立新的伺服器隊伍「%s」！
+ftbteams,ftbteams.message.deleted_server_team,,已刪除伺服器隊伍「%s」！
+ftbteams,ftbteams.message.team_disbanded,,已強制解散玩家隊伍「%s」（%s）！
+ftbteams,ftbteams.accept,,接受 ✔
+ftbteams,ftbteams.decline,,拒絕 ✘

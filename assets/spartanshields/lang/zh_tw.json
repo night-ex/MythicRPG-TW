@@ -1,0 +1,21 @@
+{
+  "item.spartanshields.wooden_basic_shield": "木製盾牌",
+  "item.spartanshields.stone_basic_shield": "石製盾牌",
+  "item.spartanshields.iron_basic_shield": "鐵製盾牌",
+  "item.spartanshields.golden_basic_shield": "金製盾牌",
+  "item.spartanshields.diamond_basic_shield": "鑽石盾牌",
+  "item.spartanshields.netherite_basic_shield": "獄髓盾牌",
+  "itemGroup.spartanshields": "Spartan Shields",
+  "tooltip.spartanshields.bash": "盾擊",
+  "tooltip.spartanshields.damage": "格擋傷害：%s",
+  "tooltip.spartanshields.cooldown": "冷卻：%s 秒",
+  "subtitle.spartanshields.block": "盾牌格擋",
+  "subtitle.spartanshields.bash": "盾擊命中",
+  "item.spartanshields.obsidian_shield": "黑曜石盾牌",
+  "item.spartanshields.ender_shield": "終界盾牌",
+  "item.spartanshields.boss_shield": "首領盾牌",
+  "tooltip.spartanshields.bash_damage": "盾擊傷害：%s",
+  "adv.spartanshields.first_block": "成功格擋一次攻擊",
+  "adv.spartanshields.master": "盾牌大師",
+  "jei.spartanshields.upgrade": "盾牌升級"
+}

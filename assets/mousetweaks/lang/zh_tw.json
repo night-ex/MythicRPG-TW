@@ -1,0 +1,12 @@
+{
+  "key.mousetweaks.config": "Mouse Tweaks 設定",
+  "key.mousetweaks.rmbdrag": "右鍵拖曳",
+  "key.mousetweaks.lmbdrag": "左鍵拖曳",
+  "key.mousetweaks.wheel": "滑鼠滾輪移動",
+  "config.mousetweaks.enable": "啟用 Mouse Tweaks",
+  "config.mousetweaks.scroll": "滾輪功能",
+  "tooltip.mousetweaks.drag": "拖曳即可快速整理物品",
+  "tooltip.mousetweaks.scroll": "滾動滑鼠滾輪可快速移動物品",
+  "category.mousetweaks": "Mouse Tweaks",
+  "message.mousetweaks.enabled": "Mouse Tweaks 已啟用"
+}
