@@ -22,6 +22,10 @@
 | Altar of Inspiration | 靈感祭壇 | Vampirism | No | 全專案統一 |
 | Altar of Infusion | 灌注祭壇 | Vampirism | No | 全專案統一 |
 | Garlic Diffusor | 大蒜擴散器 | Vampirism | No | 原文採用模組內拼法 `Diffusor` |
+| Smithing | 鍛造 | Minecraft | Yes | 沿用官方譯名 |
+| Tick | 刻 | Minecraft | Yes | 沿用官方譯名 |
+| Powder Snow | 細雪 | Minecraft | Yes | 沿用官方譯名 |
+| EMC | EMC | ProjectE | No | 專有縮寫，保留原文 |
 
 ## 欄位規則
 
