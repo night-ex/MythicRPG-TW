@@ -11,6 +11,17 @@
 | Loot Table | 戰利品表 | Minecraft | Yes | 沿用官方譯名 |
 | Boss | 首領 | MythicRPG | No | 全專案統一 |
 | Dimension | 維度 | Minecraft | Yes | 沿用官方譯名 |
+| Vampire | 吸血鬼 | Vampirism | No | 全專案統一 |
+| Vampire Hunter | 吸血鬼獵人 | Vampirism | No | 全專案統一 |
+| Vampire Lord | 吸血鬼領主 | Vampirism | No | `Lord` 統一譯為「領主」 |
+| Vampire Baron | 吸血鬼男爵 | Vampirism | No | 沿用爵位「Baron」的通行譯名 |
+| Minion | 僕從 | Vampirism | No | 全專案統一，不使用「仆從」或「隨從」 |
+| Faction | 陣營 | Vampirism | No | 全專案統一 |
+| Ritual | 儀式 | Vampirism | No | 全專案統一 |
+| Blood Bottle | 血瓶 | Vampirism | No | 全專案統一 |
+| Altar of Inspiration | 靈感祭壇 | Vampirism | No | 全專案統一 |
+| Altar of Infusion | 灌注祭壇 | Vampirism | No | 全專案統一 |
+| Garlic Diffusor | 大蒜擴散器 | Vampirism | No | 原文採用模組內拼法 `Diffusor` |
 
 ## 欄位規則
 
