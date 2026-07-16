@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：9
-- 剩餘模組數：57
+- 已完成模組數：13
+- 剩餘模組數：53
 - 模組總數：66
-- 整體完成率：13.64%（9 / 66）
+- 整體完成率：19.70%（13 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -17,6 +17,10 @@
 | Alex's Caves | `alexscaves` | 100%（1,712 / 1,712） | 0 | `68ee3f4a980bad92566e99be51c75af6906d7b43` | 2026-07-17 |
 | Alex's Mobs | `alexsmobs` | 100%（1,076 / 1,076） | 0 | `28dd247279dff51deb56b00a811efce435b14711` | 2026-07-17 |
 | Artifacts | `artifacts` | 100%（266 / 266） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Balm | `balm` | 100%（35 / 35） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Better Combat | `bettercombat` | 100%（39 / 39） | 0 | `45fbd7ea1f1f924c99273f16a4217361a0028bff` | 2026-07-17 |
+| Better Desert Temples | `betterdeserttemples` | 100%（7 / 7） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Better Dungeons | `betterdungeons` | 100%（86 / 86） | 0 | `d55912cbe0365afeb5421979587344ed6d029c39` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -28,10 +32,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `balm` | `balm-forge-1.20.1-7.3.41-all.jar` | 0% | 待翻譯 |
-| `bettercombat` | `bettercombat-forge-1.9.0+1.20.1.jar` | 0% | 待翻譯 |
-| `betterdeserttemples` | `YungsBetterDesertTemples-1.20-Forge-3.0.3.jar` | 0% | 待翻譯 |
-| `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0% | 待翻譯 |
 | `betterendisland` | `YungsBetterEndIsland-1.20-Forge-2.0.6.jar` | 0% | 待翻譯 |
 | `betterf3` | `BetterF3-7.0.2-Forge-1.20.1.jar` | 0% | 待翻譯 |
 | `betterfortresses` | `YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar` | 0% | 待翻譯 |
