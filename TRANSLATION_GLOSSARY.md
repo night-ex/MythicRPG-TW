@@ -53,6 +53,10 @@
 | Spatial Storage | 空間儲存 | FTB Library | No | AE2 維度名稱用語，全專案統一 |
 | Questline | 任務線 | FTB Quests | No | FTB Quests 任務結構用語，全專案統一 |
 | Locale | 語系 | FTB Quests | No | 翻譯編輯介面用語，全專案統一 |
+| Guard | 護衛 | Guard Villagers | No | Guard Villagers 生物名稱，全專案統一 |
+| Iron Golem | 鐵魔像 | Minecraft | Yes | 沿用官方譯名 |
+| Illusioner | 幻術師 | Minecraft | Yes | 沿用官方譯名 |
+| Snow Golem | 雪人 | Minecraft | Yes | 沿用官方譯名 |
 
 ## 欄位規則
 

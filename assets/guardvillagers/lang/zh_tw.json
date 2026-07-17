@@ -1,12 +1,17 @@
 {
   "entity.guardvillagers.guard": "護衛",
-  "item.guardvillagers.guard_spawn_egg": "護衛 生怪蛋",
-  "item.guardvillagers.illusioner_spawn_egg": "幻術師 生怪蛋",
-  "item.guardvillagers.iron_golem_spawn_egg": "鐵巨人 生怪蛋",
-  "item.guardvillagers.snow_golem_spawn_egg": "雪人 生怪蛋",
-  "guardinventory.health": "生命值: %s",
-  "guardinventory.armor": "護甲值: %s",
-  "subtitles.entity.guard.ambient": "警衛：喃喃自語",
-  "subtitles.entity.guard.hurt": "警衛：受傷",
-  "subtitles.entity.guard.death": "警衛：死亡"
+  "item.guardvillagers.guard_spawn_egg": "護衛生怪蛋",
+  "item.guardvillagers.illusioner_spawn_egg": "幻術師生怪蛋",
+  "item.guardvillagers.iron_golem_spawn_egg": "鐵魔像生怪蛋",
+  "item.guardvillagers.snow_golem_spawn_egg": "雪人生怪蛋",
+  "guardinventory.health": "生命值：%s",
+  "guardinventory.armor": "護甲值：%s",
+  "subtitles.entity.guard.ambient": "護衛：喃喃自語",
+  "subtitles.entity.guard.hurt": "護衛：受傷",
+  "subtitles.entity.guard.death": "護衛：死亡",
+  "stat.guardvillagers.guards_made": "招募護衛數",
+  "guardvillagers.advancements.adventure.recruit_guard.description": "給予失業村民一把劍，讓他協助保衛村莊",
+  "guardvillagers.advancements.adventure.recruit_guard.title": "我們要的就是你，新進護衛！",
+  "subtitles.entity.guard.yes": "護衛：同意",
+  "subtitles.entity.guard.no": "護衛：不同意"
 }
