@@ -67,6 +67,12 @@
 | Tooltip | 提示框 | Jade | No | UI 浮動提示內容，全專案統一 |
 | Creative Mode | 創造模式 | Minecraft | Yes | 沿用官方譯名 |
 | Spectator Mode | 旁觀者模式 | Minecraft | Yes | 沿用官方譯名 |
+| Demon Slayer Corps | 鬼殺隊 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
+| Demon | 鬼 | Kimetsu no Yaiba | No | 《鬼滅之刃》語境，全專案統一 |
+| Nichirin Sword | 日輪刀 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
+| Breathing Style | 呼吸法 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
+| Blood Demon Art | 血鬼術 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
+| Hashira | 柱 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
 
 ## 欄位規則
 
