@@ -78,6 +78,7 @@
 | OptiFine | OptiFine | Lionfish API | No | 模組名稱，保留官方大小寫 |
 | Xenon | Xenon | Lionfish API | No | 效能最佳化模組名稱，保留原文 |
 | Oculus | Oculus | Lionfish API | No | 光影模組名稱，保留原文 |
+| Block State | 方塊狀態 | Minecraft | Yes | 沿用官方譯名 |
 
 ## 欄位規則
 
