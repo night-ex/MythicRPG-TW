@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：47
-- 剩餘模組數：19
+- 已完成模組數：51
+- 剩餘模組數：15
 - 模組總數：66
-- 整體完成率：71.21%（47 / 66）
+- 整體完成率：77.27%（51 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -55,6 +55,10 @@
 | Kimetsu no Yaiba | `kimetsunoyaiba` | 100%（1,143 / 1,143） | 0 | `95f33edab15228342958ab5c9fa192a0afd0b658` | 2026-07-17 |
 | Library Ferret | `libraryferret` | 100%（38 / 38） | 0 | `94e59a36935bf49e686fb58cb52074bd9ce73e14` | 2026-07-17 |
 | Lionfish API | `lionfishapi` | 100%（4 / 4） | 0 | `2e642c4b85092b0202295d7070845551c5f3f65e` | 2026-07-17 |
+| Lootr | `lootr` | 100%（51 / 51） | 0 | `98723eff324636900d4650c27cef659a0e6533e4` | 2026-07-17 |
+| Majrusz Library | `majruszlibrary` | 100%（2 / 2） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Majrusz's Progressive Difficulty | `majruszsdifficulty` | 100%（191 / 191） | 0 | `f2449d5cb5be8a0fd9a4ef1a6999c82a31fd91d8` | 2026-07-17 |
+| ModernFix | `modernfix` | 100%（155 / 155） | 0 | `ad11f7bd1954d1645412ad438c9972a32062e1a7` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（132 / 132） | 0 | `9cd1f1c74d86b38a5d1638640e6a0b1617d3dd71` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -66,10 +70,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `lootr` | `lootr-forge-1.20-0.7.35.94.jar` | 0% | 待翻譯 |
-| `majruszlibrary` | `majrusz-library-forge-1.20.1-7.0.8.jar` | 0% | 待翻譯 |
-| `majruszsdifficulty` | `majruszs-difficulty-forge-1.20.1-1.9.10.jar` | 0% | 待翻譯 |
-| `modernfix` | `modernfix-forge-5.27.58+mc1.20.1.jar` | 0% | 待翻譯 |
 | `mowziesmobs` | `mowziesmobs-1.8.2.jar` | 0% | 待翻譯 |
 | `patchouli` | `Patchouli-1.20.1-85-FORGE.jar` | 0% | 待翻譯 |
 | `polymorph` | `polymorph-forge-0.49.10+1.20.1.jar` | 0% | 待翻譯 |
