@@ -87,6 +87,14 @@
 | Alchemical Book | 鍊金術之書 | Project Expansion | No | Project Expansion 道具類型名稱，全專案統一 |
 | Final Star | 最終之星 | Project Expansion | No | Project Expansion 道具名稱，全專案統一 |
 | Upgrade Tier | MK 等級 | ProjectE | No | 升級設備必須清楚保留 `[MK 1]`、`[MK 2]` 等原始階級標示 |
+| Relic | 遺物 | Relics | No | 全專案統一 |
+| Shield Bash | 盾擊 | Spartan Shields | No | 全專案統一 |
+| Tower Shield | 塔盾 | Spartan Shields | No | 與一般盾牌明確區分 |
+| Quiver | 箭袋 | Spartan Weaponry | No | 箭與弩箭的攜行容器，全專案統一 |
+| Parrying Dagger | 招架匕首 | Spartan Weaponry | No | 全專案統一 |
+| Manasteel | 魔力鋼 | Spartan Shields | No | Botania 材料名稱，全專案統一 |
+| Terrasteel | 泰拉鋼 | Spartan Shields | No | Botania 材料名稱，全專案統一 |
+| Elementium | 元素鋼 | Spartan Shields | No | Botania 材料名稱，全專案統一 |
 
 ## 欄位規則
 
