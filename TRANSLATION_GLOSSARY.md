@@ -33,6 +33,12 @@
 | Blaze Rod | 烈焰桿 | Minecraft | Yes | 沿用官方譯名 |
 | Wither Skeleton | 凋零骷髏 | Minecraft | Yes | 沿用官方譯名 |
 | Wither Skeleton Skull | 凋零骷髏頭顱 | Minecraft | Yes | 沿用官方譯名 |
+| Everbright | 永晝之地 | Blue Skies | No | Blue Skies 維度名稱，全專案統一 |
+| Everdawn | 恆曉之地 | Blue Skies | No | Blue Skies 維度名稱，全專案統一 |
+| Blue Journal | 蔚藍旅記 | Blue Skies | No | Blue Skies 指南名稱，全專案統一 |
+| Gatekeeper | 守門人 | Blue Skies | No | Blue Skies 角色名稱，全專案統一 |
+| Zeal Lighter | 御風火石 | Blue Skies | No | Blue Skies 道具名稱，全專案統一 |
+| Blinding Dungeon | 惑亂高塔 | Blue Skies | No | Blue Skies 結構名稱，全專案統一 |
 
 ## 欄位規則
 
