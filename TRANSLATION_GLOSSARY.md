@@ -61,6 +61,9 @@
 | Dread Shard | 悚怖碎片 | Ice and Fire | No | Ice and Fire 道具名稱，全專案統一 |
 | Lightning Dragon Charge | 龍霆彈 | Ice and Fire | No | Ice and Fire 實體名稱，全專案統一 |
 | Amphithere Arrow | 翼蚺羽箭 | Ice and Fire | No | Ice and Fire 道具與實體名稱，全專案統一 |
+| Chest | 儲物箱 | Minecraft | Yes | 沿用官方譯名 |
+| Trapped Chest | 陷阱儲物箱 | Minecraft | Yes | 沿用官方譯名 |
+| DirtChest 9000 | 泥土儲物箱 9000 | Iron Chests | No | Iron Chests 特殊儲物箱名稱，全專案統一 |
 
 ## 欄位規則
 
