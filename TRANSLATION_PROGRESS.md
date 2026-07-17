@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：24
-- 剩餘模組數：42
+- 已完成模組數：31
+- 剩餘模組數：35
 - 模組總數：66
-- 整體完成率：36.36%（24 / 66）
+- 整體完成率：46.97%（31 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -32,6 +32,13 @@
 | Blue Skies | `blue_skies` | 100%（1,255 / 1,255） | 0 | `c8f22d3738b455285d1701aab5dca80f3efc767b` | 2026-07-17 |
 | Cataclysm | `cataclysm` | 100%（735 / 735） | 0 | `051394fec48b80460b3c4eb6fcb3d10facd8241e` | 2026-07-17 |
 | Catalogue | `catalogue` | 100%（14 / 14） | 0 | `9760093db7085fbceec097d5a801efc9d4a275a3` | 2026-07-17 |
+| Citadel | `citadel` | 100%（24 / 24） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Cloth Config | `cloth-config2` | 100%（49 / 49） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Configured | `configured` | 100%（62 / 62） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Controlling | `controlling` | 100%（12 / 12） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| ChoiceTheorem's Overhauled Village | `ctov` | 100%（74 / 74） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Cucumber Library | `cucumber` | 100%（16 / 16） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Curios | `curios` | 100%（48 / 48） | 0 | `3bcf504c25614d5abec63a4653530e8cf1d7e9b4` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -43,13 +50,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `citadel` | `citadel-2.6.3-1.20.1.jar` | 0% | 待翻譯 |
-| `cloth-config2` | `cloth-config-11.1.136-forge.jar` | 0% | 待翻譯 |
-| `configured` | `configured-forge-1.20.1-2.2.3.jar` | 0% | 待翻譯 |
-| `controlling` | `Controlling-forge-1.20.1-12.0.2.jar` | 0% | 待翻譯 |
-| `ctov` | `[forge]ctov-3.4.14.jar` | 0% | 待翻譯 |
-| `cucumber` | `Cucumber-1.20.1-7.0.16.jar` | 0% | 待翻譯 |
-| `curios` | `curios-forge-5.14.1+1.20.1.jar` | 0% | 待翻譯 |
 | `dungeons_arise` | `DungeonsArise-1.20.x-2.1.58-release.jar` | 0% | 待翻譯 |
 | `embeddium` | `embeddium-0.3.31+mc1.20.1.jar` | 0% | 待翻譯 |
 | `entityculling` | `entityculling-forge-1.10.5-mc1.20.1.jar` | 0% | 待翻譯 |
