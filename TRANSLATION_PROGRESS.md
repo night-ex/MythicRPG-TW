@@ -62,8 +62,8 @@
 | Mowzie's Mobs | `mowziesmobs` | 100%（440 / 440） | 0 | `0d4b0f855bae3358f5436889f9f235c8fbaabc6a` | 2026-07-17 |
 | Patchouli | `patchouli` | 100%（90 / 90） | 0 | `f8d5af815110a22949c496ac82717036c0c19ee7` | 2026-07-17 |
 | Polymorph | `polymorph` | 100%（2 / 2） | 0 | `3518f279dd93c3a4dfd43447c564a068a8047c2e` | 2026-07-17 |
-| ProjectE | `projecte` | 100%（371 / 371） | 0 | `b4f191e7d2ef3baa9f7a8ad4ee79efcfe0e1ae97` | 2026-07-17 |
-| Project Expansion | `projectexpansion` | 100%（583 / 583） | 0 | `9cc15d948e6b673d66314a5ab77e72a77b9e638f` | 2026-07-17 |
+| ProjectE | `projecte` | 100%（371 / 371） | 0 | `a3753b7aa8b041f5454980c092f05558d560e70c` | 2026-07-17 |
+| Project Expansion | `projectexpansion` | 100%（583 / 583） | 0 | `0854b0ff4bf1f8a5f46e252bcb6581ef07862c13` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（132 / 132） | 0 | `9cd1f1c74d86b38a5d1638640e6a0b1617d3dd71` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
