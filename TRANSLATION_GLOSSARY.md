@@ -49,6 +49,8 @@
 | Mechanical Nest | 機械巢穴 | Dungeons Arise | No | Dungeons Arise 結構名稱，全專案統一 |
 | Quad Shading | 四邊形陰影 | Embeddium | No | 圖形設定術語，全專案統一 |
 | Light Pipeline | 光照管線 | Embeddium | No | 圖形渲染術語，全專案統一 |
+| Fluid Container | 流體容器 | FTB Library | No | FTB Library 道具名稱，全專案統一 |
+| Spatial Storage | 空間儲存 | FTB Library | No | AE2 維度名稱用語，全專案統一 |
 
 ## 欄位規則
 
