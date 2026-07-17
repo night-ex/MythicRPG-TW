@@ -79,6 +79,13 @@
 | Xenon | Xenon | Lionfish API | No | 效能最佳化模組名稱，保留原文 |
 | Oculus | Oculus | Lionfish API | No | 光影模組名稱，保留原文 |
 | Block State | 方塊狀態 | Minecraft | Yes | 沿用官方譯名 |
+| Matter | 物質 | ProjectE | No | ProjectE 與其附加模組的物質階級名稱，全專案統一 |
+| Energy Collector | 能量收集器 | ProjectE | No | ProjectE 機器名稱，全專案統一 |
+| Anti-Matter Relay | 反物質繼電器 | ProjectE | No | ProjectE 機器名稱，全專案統一 |
+| Power Flower | 能量花 | Project Expansion | No | ProjectE 機器組合名稱，全專案統一 |
+| EMC Link | EMC 連結器 | Project Expansion | No | Project Expansion 機器名稱，全專案統一 |
+| Alchemical Book | 鍊金術之書 | Project Expansion | No | Project Expansion 道具類型名稱，全專案統一 |
+| Final Star | 最終之星 | Project Expansion | No | Project Expansion 道具名稱，全專案統一 |
 
 ## 欄位規則
 
