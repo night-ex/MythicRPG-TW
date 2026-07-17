@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：56
-- 剩餘模組數：10
+- 已完成模組數：61
+- 剩餘模組數：5
 - 模組總數：66
-- 整體完成率：84.85%（56 / 66）
+- 整體完成率：92.42%（61 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -70,16 +70,16 @@
 | Re-Avaritia | `avaritia` | 100%（559 / 559） | 0 | `bd4d3aee4d03b12982881b7430c15e3b6774f152` | 2026-07-17 |
 | Vampirism | `vampirism` | 100%（1,233 / 1,233） | 0 | `2a4bfc3d4c03c0d5d28338086e57faded33b6208` | 2026-07-17 |
 | Vampirism Guide | `vampirismguide` | 100%（206 / 206） | 0 | `dfbb2b1a5aac86a63055871f684e464ac0ede40a` | 2026-07-17 |
+| Relics | `relics` | 100%（403 / 403） | 0 | `ccffcdb39cd2bfb5c84dd3906628c0f6e8caa98e` | 2026-07-17 |
+| Searchables | `searchables` | 100%（1 / 1） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Embeddium | `sodium` | 100%（65 / 65） | 0 | `72b482a4b2143723c74d4655a4ab156c39309960` | 2026-07-17 |
+| Spartan Shields | `spartanshields` | 100%（143 / 143） | 0 | `fb646f93cf2e9c912595386e94569cd2eefd8943` | 2026-07-17 |
+| Spartan Weaponry | `spartanweaponry` | 100%（1,072 / 1,072） | 0 | `c6002519e46f003ba24e72cb4ddb017574eeb9fe` | 2026-07-17 |
 
 ## 翻譯工作清單
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `relics` | `relics-1.20.1-0.8.0.13.jar` | 0% | 待翻譯 |
-| `searchables` | `Searchables-forge-1.20.1-1.0.3.jar` | 0% | 待翻譯 |
-| `sodium` | `embeddium-0.3.31+mc1.20.1.jar` | 0% | 待翻譯 |
-| `spartanshields` | `SpartanShields-1.20.1-forge-3.1.1.jar` | 0% | 待翻譯 |
-| `spartanweaponry` | `SpartanWeaponry-1.20.1-forge-3.2.1-all.jar` | 0% | 待翻譯 |
 | `structure_gel` | `structure_gel-1.20.1-2.16.2.jar` | 0% | 待翻譯 |
 | `tacz` | `tacz-1.20.1-1.1.8-hotfix.jar` | 0% | 待翻譯 |
 | `travelersbackpack` | `travelersbackpack-forge-1.20.1-9.1.55.jar` | 0% | 待翻譯 |
