@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：36
-- 剩餘模組數：30
+- 已完成模組數：37
+- 剩餘模組數：29
 - 模組總數：66
-- 整體完成率：54.55%（36 / 66）
+- 整體完成率：56.06%（37 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -44,6 +44,7 @@
 | Entity Culling | `entityculling` | 100%（27 / 27） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | Extended Crafting | `extendedcrafting` | 100%（187 / 187） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | FTB Library | `ftblibrary` | 100%（99 / 99） | 0 | `9bcfb9e885c7031e28c62dcdb0fb75eda2143081` | 2026-07-17 |
+| FTB Quests | `ftbquests` | 100%（584 / 584） | 0 | `431d1049aebb7264d5dfb145a9b14bc2a1c87548` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -55,7 +56,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `ftbquests` | `ftb-quests-forge-2001.4.22.jar` | 0% | 待翻譯 |
 | `ftbteams` | `ftb-teams-forge-2001.3.2.jar` | 0% | 待翻譯 |
 | `ftbultimine` | `ftb-ultimine-forge-2001.1.8.jar` | 0% | 待翻譯 |
 | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0% | 待翻譯 |
