@@ -86,6 +86,7 @@
 | EMC Link | EMC 連結器 | Project Expansion | No | Project Expansion 機器名稱，全專案統一 |
 | Alchemical Book | 鍊金術之書 | Project Expansion | No | Project Expansion 道具類型名稱，全專案統一 |
 | Final Star | 最終之星 | Project Expansion | No | Project Expansion 道具名稱，全專案統一 |
+| Upgrade Tier | MK 等級 | ProjectE | No | 升級設備必須清楚保留 `[MK 1]`、`[MK 2]` 等原始階級標示 |
 
 ## 欄位規則
 
