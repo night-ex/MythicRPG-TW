@@ -1,4 +1,9 @@
 {
-  "embeddium.conflicting_mod": "Embeddium 檢測到已安裝的模組中有些可能會導致渲染問題或崩潰。建議解除安裝它們。請參考以下列表。",
-  "embeddium.conflicting_mod_list": "[{2}]"
+  "embeddium.conflicting_mod": "Embeddium 偵測到已安裝的模組中，有些可能會導致渲染問題或崩潰。建議解除安裝這些模組，請參考以下清單。",
+  "embeddium.conflicting_mod_list": "[{2}]",
+  "embeddium.search_bar_empty": "搜尋選項……",
+  "embeddium.options.added_by_mod_string": "由模組新增：%s",
+  "embeddium.options.fullscreen.resolution.tooltip": "控制全螢幕模式下的遊戲解析度。",
+  "embeddium.options.use_quad_normals_for_lighting.name": "使用精確四邊形陰影",
+  "embeddium.options.use_quad_normals_for_lighting.tooltip": "啟用後，Embeddium 會根據非原版方塊面的實際朝向套用陰影，而非依照與座標軸對齊的方向。停用 Forge 實驗性光照管線時（建議停用以獲得最佳效能），此選項可改善光照品質。\n\n若已啟用實驗性光照管線，此選項不會產生效果。"
 }

@@ -47,6 +47,8 @@
 | Dragon Wound | 龍傷 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
 | Curio | 飾品 | Curios | No | Curios 欄位與物品類型的統一譯名 |
 | Mechanical Nest | 機械巢穴 | Dungeons Arise | No | Dungeons Arise 結構名稱，全專案統一 |
+| Quad Shading | 四邊形陰影 | Embeddium | No | 圖形設定術語，全專案統一 |
+| Light Pipeline | 光照管線 | Embeddium | No | 圖形渲染術語，全專案統一 |
 
 ## 欄位規則
 
