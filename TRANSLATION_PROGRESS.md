@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：51
-- 剩餘模組數：15
+- 已完成模組數：56
+- 剩餘模組數：10
 - 模組總數：66
-- 整體完成率：77.27%（51 / 66）
+- 整體完成率：84.85%（56 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -59,6 +59,11 @@
 | Majrusz Library | `majruszlibrary` | 100%（2 / 2） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | Majrusz's Progressive Difficulty | `majruszsdifficulty` | 100%（191 / 191） | 0 | `f2449d5cb5be8a0fd9a4ef1a6999c82a31fd91d8` | 2026-07-17 |
 | ModernFix | `modernfix` | 100%（155 / 155） | 0 | `ad11f7bd1954d1645412ad438c9972a32062e1a7` | 2026-07-17 |
+| Mowzie's Mobs | `mowziesmobs` | 100%（440 / 440） | 0 | `0d4b0f855bae3358f5436889f9f235c8fbaabc6a` | 2026-07-17 |
+| Patchouli | `patchouli` | 100%（90 / 90） | 0 | `f8d5af815110a22949c496ac82717036c0c19ee7` | 2026-07-17 |
+| Polymorph | `polymorph` | 100%（2 / 2） | 0 | `3518f279dd93c3a4dfd43447c564a068a8047c2e` | 2026-07-17 |
+| ProjectE | `projecte` | 100%（371 / 371） | 0 | `b4f191e7d2ef3baa9f7a8ad4ee79efcfe0e1ae97` | 2026-07-17 |
+| Project Expansion | `projectexpansion` | 100%（583 / 583） | 0 | `9cc15d948e6b673d66314a5ab77e72a77b9e638f` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（132 / 132） | 0 | `9cd1f1c74d86b38a5d1638640e6a0b1617d3dd71` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -70,11 +75,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `mowziesmobs` | `mowziesmobs-1.8.2.jar` | 0% | 待翻譯 |
-| `patchouli` | `Patchouli-1.20.1-85-FORGE.jar` | 0% | 待翻譯 |
-| `polymorph` | `polymorph-forge-0.49.10+1.20.1.jar` | 0% | 待翻譯 |
-| `projecte` | `ProjectE-1.20.1-PE1.0.1.jar` | 0% | 待翻譯 |
-| `projectexpansion` | `projectexpansion-1.20.1-1.1.3.jar` | 0% | 待翻譯 |
 | `relics` | `relics-1.20.1-0.8.0.13.jar` | 0% | 待翻譯 |
 | `searchables` | `Searchables-forge-1.20.1-1.0.3.jar` | 0% | 待翻譯 |
 | `sodium` | `embeddium-0.3.31+mc1.20.1.jar` | 0% | 待翻譯 |
