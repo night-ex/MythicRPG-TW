@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：45
-- 剩餘模組數：21
+- 已完成模組數：46
+- 剩餘模組數：20
 - 模組總數：66
-- 整體完成率：68.18%（45 / 66）
+- 整體完成率：69.70%（46 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -53,6 +53,7 @@
 | Iron Chests | `ironchest` | 100%（36 / 36） | 0 | `b22df559df88908861be09f9d1191e0ba89bf913` | 2026-07-17 |
 | Jade | `jade` | 100%（280 / 280） | 0 | `71742830b183cf4612fbaed6198939664c27df97` | 2026-07-17 |
 | Kimetsu no Yaiba | `kimetsunoyaiba` | 100%（1,143 / 1,143） | 0 | `95f33edab15228342958ab5c9fa192a0afd0b658` | 2026-07-17 |
+| Library Ferret | `libraryferret` | 100%（38 / 38） | 0 | `94e59a36935bf49e686fb58cb52074bd9ce73e14` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -64,7 +65,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `libraryferret` | `libraryferret-forge-1.20.1-4.0.0.jar` | 0% | 待翻譯 |
 | `lionfishapi` | `lionfishapi-3.0.jar` | 0% | 待翻譯 |
 | `lootr` | `lootr-forge-1.20-0.7.35.94.jar` | 0% | 待翻譯 |
 | `majruszlibrary` | `majrusz-library-forge-1.20.1-7.0.8.jar` | 0% | 待翻譯 |
