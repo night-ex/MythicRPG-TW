@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：15
-- 剩餘模組數：51
+- 已完成模組數：22
+- 剩餘模組數：44
 - 模組總數：66
-- 整體完成率：22.73%（15 / 66）
+- 整體完成率：33.33%（22 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -23,6 +23,13 @@
 | Better Dungeons | `betterdungeons` | 100%（86 / 86） | 0 | `d55912cbe0365afeb5421979587344ed6d029c39` | 2026-07-17 |
 | Better End Island | `betterendisland` | 100%（5 / 5） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | BetterF3 | `betterf3` | 100%（217 / 217） | 0 | `4bc886faeb31c46647fb93746e2a9b63be83d150` | 2026-07-17 |
+| Better Nether Fortresses | `betterfortresses` | 100%（4 / 4） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Better Jungle Temples | `betterjungletemples` | 100%（11 / 11） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Better Ocean Monuments | `betteroceanmonuments` | 100%（4 / 4） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Better Strongholds | `betterstrongholds` | 100%（18 / 18） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Better Witch Huts | `betterwitchhuts` | 100%（4 / 4） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Blood Moon | `bloodmoon` | 100%（10 / 10） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
+| Blue Skies | `blue_skies` | 100%（1,255 / 1,255） | 0 | `c8f22d3738b455285d1701aab5dca80f3efc767b` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -34,13 +41,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `betterfortresses` | `YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar` | 0% | 待翻譯 |
-| `betterjungletemples` | `YungsBetterJungleTemples-1.20-Forge-2.0.5.jar` | 0% | 待翻譯 |
-| `betteroceanmonuments` | `YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar` | 0% | 待翻譯 |
-| `betterstrongholds` | `YungsBetterStrongholds-1.20-Forge-4.0.3.jar` | 0% | 待翻譯 |
-| `betterwitchhuts` | `YungsBetterWitchHuts-1.20-Forge-3.0.3.jar` | 0% | 待翻譯 |
-| `bloodmoon` | `bloodmoon-1.20.1-1.4.1-forge-1.20.1.jar` | 0% | 待翻譯 |
-| `blue_skies` | `blue_skies-1.20.1-1.3.31.jar` | 0% | 待翻譯 |
 | `cataclysm` | `L_Enders_Cataclysm-3.31.jar` | 0% | 待翻譯 |
 | `catalogue` | `catalogue-forge-1.20.1-1.8.0.jar` | 0% | 待翻譯 |
 | `citadel` | `citadel-2.6.3-1.20.1.jar` | 0% | 待翻譯 |
