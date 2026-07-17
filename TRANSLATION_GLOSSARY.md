@@ -75,6 +75,9 @@
 | Hashira | 柱 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
 | Library Ferret | Library Ferret | Library Ferret | No | 模組名稱，保留原文 |
 | A5R1 Curse | A5R1 詛咒 | Library Ferret | No | 模組狀態效果名稱，全專案統一 |
+| OptiFine | OptiFine | Lionfish API | No | 模組名稱，保留官方大小寫 |
+| Xenon | Xenon | Lionfish API | No | 效能最佳化模組名稱，保留原文 |
+| Oculus | Oculus | Lionfish API | No | 光影模組名稱，保留原文 |
 
 ## 欄位規則
 
