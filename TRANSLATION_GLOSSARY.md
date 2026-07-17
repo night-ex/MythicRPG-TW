@@ -95,6 +95,10 @@
 | Manasteel | 魔力鋼 | Spartan Shields | No | Botania 材料名稱，全專案統一 |
 | Terrasteel | 泰拉鋼 | Spartan Shields | No | Botania 材料名稱，全專案統一 |
 | Elementium | 元素鋼 | Spartan Shields | No | Botania 材料名稱，全專案統一 |
+| Building Tool | 建築工具 | Structure Gel | No | Structure Gel 工具名稱，全專案統一 |
+| Uncrafting Table | 拆解工作臺 | Twilight Forest | No | Twilight Forest 方塊名稱，全專案統一 |
+| Twilight Forest | 暮光森林 | Twilight Forest | No | 模組與維度名稱，全專案統一 |
+| Waystone | 傳送石碑 | Waystones | No | 與 `Waypoint`（路徑點）區分，全專案統一 |
 
 ## 欄位規則
 
