@@ -304,7 +304,7 @@
   "tooltip.relics.rage_glove.ability.phlebotomy": "刺骼",
   "tooltip.relics.rage_glove.ability.phlebotomy.description": "穿戴時提升攻擊和移速，並根據生命損失的百分比獲得生命恢復。",
   "tooltip.relics.rage_glove.ability.phlebotomy.stat.heal.title": "生命恢復：",
-  "tooltip.relics.rage_glove.ability.phlebotomy.stat.heal.value": "%1$s%%的機率恢復1%%。",
+  "tooltip.relics.rage_glove.ability.phlebotomy.stat.heal.value": "%1$s，每秒恢復 1%%。",
   "tooltip.relics.rage_glove.ability.phlebotomy.stat.movement_speed.title": "移速係數：",
   "tooltip.relics.rage_glove.ability.phlebotomy.stat.movement_speed.value": "%1$s%%的機率加成1%%。",
   "tooltip.relics.rage_glove.ability.phlebotomy.stat.attack_speed.title": "攻速係數：",
