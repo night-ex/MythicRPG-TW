@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：23
-- 剩餘模組數：43
+- 已完成模組數：24
+- 剩餘模組數：42
 - 模組總數：66
-- 整體完成率：34.85%（23 / 66）
+- 整體完成率：36.36%（24 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -31,6 +31,7 @@
 | Blood Moon | `bloodmoon` | 100%（10 / 10） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | Blue Skies | `blue_skies` | 100%（1,255 / 1,255） | 0 | `c8f22d3738b455285d1701aab5dca80f3efc767b` | 2026-07-17 |
 | Cataclysm | `cataclysm` | 100%（735 / 735） | 0 | `051394fec48b80460b3c4eb6fcb3d10facd8241e` | 2026-07-17 |
+| Catalogue | `catalogue` | 100%（14 / 14） | 0 | `9760093db7085fbceec097d5a801efc9d4a275a3` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -42,7 +43,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `catalogue` | `catalogue-forge-1.20.1-1.8.0.jar` | 0% | 待翻譯 |
 | `citadel` | `citadel-2.6.3-1.20.1.jar` | 0% | 待翻譯 |
 | `cloth-config2` | `cloth-config-11.1.136-forge.jar` | 0% | 待翻譯 |
 | `configured` | `configured-forge-1.20.1-2.2.3.jar` | 0% | 待翻譯 |
