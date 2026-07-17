@@ -28,8 +28,8 @@
   "filled_map.dungeons_arise:illager_corsair": "災厄海盜船·探險家地圖",
   "filled_map.dungeons_arise:illager_galley": "災厄槳帆船·探險家地圖",
   "filled_map.dungeons_arise:mushroom_house": "蘑菇小屋·探險家地圖",
-  "advancement.dungeons_arise.wda_root.title": "當地牢浮現之時",
-  "advancement.dungeons_arise.wda_root.desc": "沉睡已久的地牢已經浮現於這世界之中",
+  "advancement.dungeons_arise.wda_root.title": "當地下城浮現之時",
+  "advancement.dungeons_arise.wda_root.desc": "沉睡已久的地下城已經浮現於這世界之中",
   "advancement.dungeons_arise.find_abandoned_temple.title": "那些…未曾述說的故事",
   "advancement.dungeons_arise.find_abandoned_temple.desc": "找到一座廢棄寺廟",
   "advancement.dungeons_arise.find_aviary.title": "三隻小鳥",
@@ -104,6 +104,6 @@
   "advancement.dungeons_arise.find_undead_pirate_ship.desc": "找到一艘幽靈海盜船",
   "advancement.dungeons_arise.find_wishing_well.title": "跳吧！",
   "advancement.dungeons_arise.find_wishing_well.desc": "找到一口許願井",
-  "advancement.dungeons_arise.find_mechanical_nest.title": "Welcome To The Machine",
-  "advancement.dungeons_arise.find_mechanical_nest.desc": "Find a Mechanical Nest"
+  "advancement.dungeons_arise.find_mechanical_nest.title": "歡迎來到機械世界",
+  "advancement.dungeons_arise.find_mechanical_nest.desc": "找到一座機械巢穴"
 }
