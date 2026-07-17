@@ -45,6 +45,7 @@
 | Lightning Hex | 雷電咒 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
 | Over Gravity | 超重力 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
 | Dragon Wound | 龍傷 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
+| Curio | 飾品 | Curios | No | Curios 欄位與物品類型的統一譯名 |
 
 ## 欄位規則
 
