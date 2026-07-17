@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：42
-- 剩餘模組數：24
+- 已完成模組數：43
+- 剩餘模組數：23
 - 模組總數：66
-- 整體完成率：63.64%（42 / 66）
+- 整體完成率：65.15%（43 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -50,6 +50,7 @@
 | GeckoLib | `geckolib` | 100%（31 / 31） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | Guard Villagers | `guardvillagers` | 100%（15 / 15） | 0 | `83badd1408db6305fee915a3c96a45ceff95cb58` | 2026-07-17 |
 | Ice and Fire | `iceandfire` | 100%（1,322 / 1,322） | 0 | `2a4a944e7a6048a9189c7bd51e46bc76e46acb25` | 2026-07-17 |
+| Iron Chests | `ironchest` | 100%（36 / 36） | 0 | `b22df559df88908861be09f9d1191e0ba89bf913` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -61,7 +62,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `ironchest` | `ironchest-1.20.1-14.4.4.jar` | 0% | 待翻譯 |
 | `jade` | `Jade-1.20.1-Forge-11.13.2.jar` | 0% | 待翻譯 |
 | `kimetsunoyaiba` | `KimetsunoYaiba-ver3-forge-1.20.1.jar` | 0% | 待翻譯 |
 | `libraryferret` | `libraryferret-forge-1.20.1-4.0.0.jar` | 0% | 待翻譯 |
