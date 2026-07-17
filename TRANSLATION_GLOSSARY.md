@@ -57,6 +57,10 @@
 | Iron Golem | 鐵魔像 | Minecraft | Yes | 沿用官方譯名 |
 | Illusioner | 幻術師 | Minecraft | Yes | 沿用官方譯名 |
 | Snow Golem | 雪人 | Minecraft | Yes | 沿用官方譯名 |
+| Bestiary | 異獸手記 | Ice and Fire | No | Ice and Fire 指南名稱，全專案統一 |
+| Dread Shard | 悚怖碎片 | Ice and Fire | No | Ice and Fire 道具名稱，全專案統一 |
+| Lightning Dragon Charge | 龍霆彈 | Ice and Fire | No | Ice and Fire 實體名稱，全專案統一 |
+| Amphithere Arrow | 翼蚺羽箭 | Ice and Fire | No | Ice and Fire 道具與實體名稱，全專案統一 |
 
 ## 欄位規則
 
