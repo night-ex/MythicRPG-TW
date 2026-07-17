@@ -51,6 +51,8 @@
 | Light Pipeline | 光照管線 | Embeddium | No | 圖形渲染術語，全專案統一 |
 | Fluid Container | 流體容器 | FTB Library | No | FTB Library 道具名稱，全專案統一 |
 | Spatial Storage | 空間儲存 | FTB Library | No | AE2 維度名稱用語，全專案統一 |
+| Questline | 任務線 | FTB Quests | No | FTB Quests 任務結構用語，全專案統一 |
+| Locale | 語系 | FTB Quests | No | 翻譯編輯介面用語，全專案統一 |
 
 ## 欄位規則
 
