@@ -99,6 +99,10 @@
 | Uncrafting Table | 拆解工作臺 | Twilight Forest | No | Twilight Forest 方塊名稱，全專案統一 |
 | Twilight Forest | 暮光森林 | Twilight Forest | No | 模組與維度名稱，全專案統一 |
 | Waystone | 傳送石碑 | Waystones | No | 與 `Waypoint`（路徑點）區分，全專案統一 |
+| Warp Stone | 傳送石 | Waystones | No | Waystones 道具名稱，全專案統一 |
+| Sharestone | 專用石碑 | Waystones | No | Waystones 方塊名稱，全專案統一 |
+| Portstone | 交流石碑 | Waystones | No | Waystones 方塊名稱，全專案統一 |
+| Warp Plate | 傳送壓力板 | Waystones | No | Waystones 方塊名稱，全專案統一 |
 
 ## 欄位規則
 
