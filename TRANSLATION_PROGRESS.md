@@ -55,7 +55,7 @@
 | Kimetsu no Yaiba | `kimetsunoyaiba` | 100%（1,143 / 1,143） | 0 | `95f33edab15228342958ab5c9fa192a0afd0b658` | 2026-07-17 |
 | Library Ferret | `libraryferret` | 100%（38 / 38） | 0 | `94e59a36935bf49e686fb58cb52074bd9ce73e14` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
-| JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
+| JEI | `jei` | 100%（132 / 132） | 0 | `9cd1f1c74d86b38a5d1638640e6a0b1617d3dd71` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
 | Re-Avaritia | `avaritia` | 100%（559 / 559） | 0 | `bd4d3aee4d03b12982881b7430c15e3b6774f152` | 2026-07-17 |
 | Vampirism | `vampirism` | 100%（1,233 / 1,233） | 0 | `2a4bfc3d4c03c0d5d28338086e57faded33b6208` | 2026-07-17 |
