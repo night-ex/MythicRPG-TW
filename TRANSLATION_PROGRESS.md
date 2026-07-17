@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：32
-- 剩餘模組數：34
+- 已完成模組數：33
+- 剩餘模組數：33
 - 模組總數：66
-- 整體完成率：48.48%（32 / 66）
+- 整體完成率：50.00%（33 / 66）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -40,6 +40,7 @@
 | Cucumber Library | `cucumber` | 100%（16 / 16） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | Curios | `curios` | 100%（48 / 48） | 0 | `3bcf504c25614d5abec63a4653530e8cf1d7e9b4` | 2026-07-17 |
 | Dungeons Arise | `dungeons_arise` | 100%（107 / 107） | 0 | `82a90bc4c6c0fa6674be708f01cfebc9da9db37f` | 2026-07-17 |
+| Embeddium | `embeddium` | 100%（7 / 7） | 0 | `b4748eb9b51bcaf3fe890710cfaf81012a99b393` | 2026-07-17 |
 | Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（74 / 74） | 0 | `82c53b2f3f5249b40f82ec162a21f88999343e3e` | 2026-07-17 |
 | JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
@@ -51,7 +52,6 @@
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `embeddium` | `embeddium-0.3.31+mc1.20.1.jar` | 0% | 待翻譯 |
 | `entityculling` | `entityculling-forge-1.10.5-mc1.20.1.jar` | 0% | 待翻譯 |
 | `extendedcrafting` | `ExtendedCrafting-1.20.1-6.0.11.jar` | 0% | 待翻譯 |
 | `ftblibrary` | `ftb-library-forge-2001.2.13.jar` | 0% | 待翻譯 |
