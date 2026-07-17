@@ -2,10 +2,10 @@
 
 ## 整體進度
 
-- 已完成模組數：61
-- 剩餘模組數：5
-- 模組總數：66
-- 整體完成率：92.42%（61 / 66）
+- 已完成模組數：63
+- 剩餘模組數：0
+- 模組總數：63
+- 整體完成率：100.00%（63 / 63）
 - 最後更新日期：2026-07-17
 
 > 模組以 `assets/<modid>/lang/en_us.json` 的唯一命名空間計算；同一命名空間出現在多個 JAR 時不重複計數。
@@ -64,24 +64,21 @@
 | Polymorph | `polymorph` | 100%（2 / 2） | 0 | `3518f279dd93c3a4dfd43447c564a068a8047c2e` | 2026-07-17 |
 | ProjectE | `projecte` | 100%（371 / 371） | 0 | `a3753b7aa8b041f5454980c092f05558d560e70c` | 2026-07-17 |
 | Project Expansion | `projectexpansion` | 100%（583 / 583） | 0 | `0854b0ff4bf1f8a5f46e252bcb6581ef07862c13` | 2026-07-17 |
-| Guide API VP | `guideapi-vp` | 100%（30 / 30） | 0 | `bed97f0479f5d5ba2281f2f0efeccd58c9968c43` | 2026-07-17 |
 | JEI | `jei` | 100%（132 / 132） | 0 | `9cd1f1c74d86b38a5d1638640e6a0b1617d3dd71` | 2026-07-17 |
-| JourneyMap | `journeymap` | 100%（756 / 756） | 0 | `2797f913933536e6435acc4111606e26792f58a0` | 2026-07-17 |
+| JourneyMap | `journeymap` | 100%（1,379 / 1,379） | 0 | `7ba3884e58e482adac8ca86af354c57d3e5dd14e` | 2026-07-17 |
 | Re-Avaritia | `avaritia` | 100%（559 / 559） | 0 | `bd4d3aee4d03b12982881b7430c15e3b6774f152` | 2026-07-17 |
-| Vampirism | `vampirism` | 100%（1,233 / 1,233） | 0 | `2a4bfc3d4c03c0d5d28338086e57faded33b6208` | 2026-07-17 |
-| Vampirism Guide | `vampirismguide` | 100%（206 / 206） | 0 | `dfbb2b1a5aac86a63055871f684e464ac0ede40a` | 2026-07-17 |
-| Relics | `relics` | 100%（403 / 403） | 0 | `ccffcdb39cd2bfb5c84dd3906628c0f6e8caa98e` | 2026-07-17 |
+| Relics | `relics` | 100%（403 / 403） | 0 | `c3f99040d9457cca66135a4f0a5575f2cc215f93` | 2026-07-17 |
 | Searchables | `searchables` | 100%（1 / 1） | 0 | `c88e7b8c24b9c0d4cb1905040ad18c286aa4b53d` | 2026-07-17 |
 | Embeddium | `sodium` | 100%（65 / 65） | 0 | `72b482a4b2143723c74d4655a4ab156c39309960` | 2026-07-17 |
 | Spartan Shields | `spartanshields` | 100%（143 / 143） | 0 | `fb646f93cf2e9c912595386e94569cd2eefd8943` | 2026-07-17 |
-| Spartan Weaponry | `spartanweaponry` | 100%（1,072 / 1,072） | 0 | `c6002519e46f003ba24e72cb4ddb017574eeb9fe` | 2026-07-17 |
+| Spartan Weaponry | `spartanweaponry` | 100%（1,072 / 1,072） | 0 | `d1feef489f1b8336b78a35b5361928ed33a46a84` | 2026-07-17 |
+| Structure Gel | `structure_gel` | 100%（257 / 257） | 0 | `dbc6bfcdcaa1a033e47e7e014e61776b4a1509f7` | 2026-07-17 |
+| TaCZ | `tacz` | 100%（295 / 295） | 0 | `12fabadf4cdb9cb1076ff0ed88f60313a918a0c9` | 2026-07-17 |
+| Traveler's Backpack | `travelersbackpack` | 100%（376 / 376） | 0 | `9658528b6de28e86b9cc5f8a4657041598aa3e8c` | 2026-07-17 |
+| Twilight Forest | `twilightforest` | 100%（1,488 / 1,488） | 0 | `65d6310627a1736c35204c36c3544d38b97ee7b9` | 2026-07-17 |
+| Waystones | `waystones` | 100%（221 / 221） | 0 | `e605e8499cae3f7bf5e1397e43949b9deeaac9fb` | 2026-07-17 |
 
 ## 翻譯工作清單
 
 | 模組名稱（Mod ID） | 實際 JAR | 完成率 | 狀態 |
 | --- | --- | ---: | --- |
-| `structure_gel` | `structure_gel-1.20.1-2.16.2.jar` | 0% | 待翻譯 |
-| `tacz` | `tacz-1.20.1-1.1.8-hotfix.jar` | 0% | 待翻譯 |
-| `travelersbackpack` | `travelersbackpack-forge-1.20.1-9.1.55.jar` | 0% | 待翻譯 |
-| `twilightforest` | `twilightforest-1.20.1-4.3.2508-universal.jar` | 0% | 待翻譯 |
-| `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0% | 待翻譯 |
