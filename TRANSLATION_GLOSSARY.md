@@ -73,6 +73,8 @@
 | Breathing Style | 呼吸法 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
 | Blood Demon Art | 血鬼術 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
 | Hashira | 柱 | Kimetsu no Yaiba | No | 沿用《鬼滅之刃》繁體中文官方譯名，全專案統一 |
+| Library Ferret | Library Ferret | Library Ferret | No | 模組名稱，保留原文 |
+| A5R1 Curse | A5R1 詛咒 | Library Ferret | No | 模組狀態效果名稱，全專案統一 |
 
 ## 欄位規則
 
