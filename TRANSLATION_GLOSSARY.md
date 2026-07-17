@@ -64,6 +64,9 @@
 | Chest | 儲物箱 | Minecraft | Yes | 沿用官方譯名 |
 | Trapped Chest | 陷阱儲物箱 | Minecraft | Yes | 沿用官方譯名 |
 | DirtChest 9000 | 泥土儲物箱 9000 | Iron Chests | No | Iron Chests 特殊儲物箱名稱，全專案統一 |
+| Tooltip | 提示框 | Jade | No | UI 浮動提示內容，全專案統一 |
+| Creative Mode | 創造模式 | Minecraft | Yes | 沿用官方譯名 |
+| Spectator Mode | 旁觀者模式 | Minecraft | Yes | 沿用官方譯名 |
 
 ## 欄位規則
 
