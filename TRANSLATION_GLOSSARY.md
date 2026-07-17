@@ -39,6 +39,12 @@
 | Gatekeeper | 守門人 | Blue Skies | No | Blue Skies 角色名稱，全專案統一 |
 | Zeal Lighter | 御風火石 | Blue Skies | No | Blue Skies 道具名稱，全專案統一 |
 | Blinding Dungeon | 惑亂高塔 | Blue Skies | No | Blue Skies 結構名稱，全專案統一 |
+| Ignis | 焰魔 | Cataclysm | No | Cataclysm 首領名稱，全專案統一 |
+| Onyx | 縞玉龍祝 | Cataclysm | No | Cataclysm 生物名稱，全專案統一 |
+| The Cataclysmfarer | 災變行者 | Cataclysm | No | Cataclysm 曲名，全專案統一 |
+| Lightning Hex | 雷電咒 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
+| Over Gravity | 超重力 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
+| Dragon Wound | 龍傷 | Cataclysm | No | Cataclysm 狀態效果名稱，全專案統一 |
 
 ## 欄位規則
 
